@@ -9,3 +9,4 @@ Más adelante el profesor indicará qué archivos crear y cómo trabajar sobre e
 ## Fuentes de datos
 
 - Datos del Banco Mundial sobre economía latinoamericana
+- Datos del DANE sobre población colombiana
