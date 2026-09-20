@@ -1,0 +1,7 @@
+{
+  "name": "Curso Git y GitHub",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {
+    "ghcr.io/devcontainers/features/git:1": {}
+  }
+}
