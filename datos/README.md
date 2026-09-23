@@ -6,5 +6,5 @@ Aquí irán archivos de datos (CSV, JSON, Markdown, etc.) que ustedes, como estu
 
 Más adelante el profesor indicará qué archivos crear y cómo trabajar sobre ellos.
 
-## FUENTE DE LOS DATOS
-Datos de Royal Ballet
+## FUENTE DE LOS DATOS    
+Datos de Royal Ballet  
